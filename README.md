@@ -5,6 +5,7 @@ This is the community hub for the switch data framework.
 ## Chat
 
 [Slack Workspace](https://switch-data.slack.com/)
+
 [Slack Invite Request](https://forms.gle/NvnsDP4APPXzaqbX8)
 
 ## Links
