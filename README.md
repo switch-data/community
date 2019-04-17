@@ -2,7 +2,7 @@
 
 This is the community hub for the switch data framework.
 
-switch is a collection of typescript libraries and tools that helps us build better data applications faster.
+Switch is a collection of typescript libraries and tools that helps us build better data applications faster.
 
 ## Chat
 
